@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Luke2464
+- 👀 I’m interested in Python, html, css
+- 🌱 I’m currently learning Java, vb.NET
+- 💞️ I’m looking to collaborate on small projects
+- 📫 How to reach me (do not)
+- ⚡ Fun fact: no
